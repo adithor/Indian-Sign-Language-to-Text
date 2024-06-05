@@ -1,5 +1,7 @@
 # Indian Sign Language (Dell: Hack2Hire)
 
+It was a group project during the hackathon
+
 ## Introduction
 
 This application is a sophisticated real-time hand gesture recognition system. It leverages the power of computer vision and machine learning to detect and classify hand gestures in real-time using the webcam feed.
