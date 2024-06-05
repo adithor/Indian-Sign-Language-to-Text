@@ -1,6 +1,6 @@
 # Indian Sign Language (Dell: Hack2Hire)
 
-It was a group project during the hackathon
+It was a group project made during the hackathon
 
 ## Introduction
 
